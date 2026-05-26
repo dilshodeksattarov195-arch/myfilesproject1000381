@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterserify",
+        "uuid": 464058,
+        "checksum": "fptpxb"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
